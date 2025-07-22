@@ -1,0 +1,8 @@
+# Ignore Python/Flask/PyInstaller temp files
+__pycache__/
+*.pyc
+*.db
+dist/
+build/
+*.zip
+.env
